@@ -1,0 +1,14 @@
+server:
+  port: 8880
+spring:
+  thymeleaf:
+    prefix: classpath:/templates/
+    mode: HTML5
+    encoding: UTF-8
+    content-type: text/html
+    suffix: html
+  http:
+    encoding:
+      charset: UTF-8
+      enabled: true
+      force: true
