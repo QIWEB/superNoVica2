@@ -371,8 +371,8 @@ public class VicaController {
      * @param @return
      * @return Map<String,Object>
      * @throws
-     * @author sihui.zha
-     * @date 2016年8月16日
+     * @author qiweb
+     * @date 2018年8月2日
      */
     public static Map<String, Object> JsonToMap(String json) {
         Map<String, Object> userMap = JSON.parseObject(json.toString(), new TypeReference<Map<String, Object>>() {
