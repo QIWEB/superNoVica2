@@ -21,6 +21,8 @@
 :: DATA:2018-08-01 14：00
 :: Spring Boot ::        2.0.3.RELEASE
 :: ACME-JAVA-SUPERNOVICA  ::        1.0.20180801
+![img](https://github.com/QIWEB/superNoVica2/raw/master/src/main/resources/static/img/welcome2.gif) 
+
 
 ----------------------模拟vica 无税盘情况ACME系统测试开专票发票系统-------------------------------
 系统启动成功，当前位置：D:\superNoVica
